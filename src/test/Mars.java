@@ -3,8 +3,14 @@ package test;
 public class Mars {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		system.out.println("Hello world");
 
+		
+		
+		
+		
+	system.out.println("Hello world");	
+		
 	}
 
 }
